@@ -76,7 +76,7 @@ public/
 ### Installation
 
 ```bash
-git clone https://github.com/Ali-Sanati/awwwards-adidas.git
+git clone https://github.com/NuralamMRH/3d-adidas-shop.git
 cd awwwards-adidas
 npm install
 ```
@@ -130,17 +130,14 @@ Please keep PRs focused, include tests or screenshots when possible, and describ
 
 If you have questions or ideas, feel free to open an issue or reach me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali.sanatidev/reels/) 
-[![Static Badge](https://img.shields.io/badge/Youtube-%23FF0033?style=flat&logo=youtube)](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-sanati/) 
-[![TikTok](https://img.shields.io/badge/tiktok-black?style=flat&logo=TikTok)](https://www.tiktok.com/@ali_sanati_dev)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nuralam-b5a792212/) 
+
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x
-)](https://x.com/Ali_Sanati_Dev)
+)](https://x.com/rancoded)
 
 Thanks for checking it out! 🙌
 
----
 
-## ⭐ Like This Project?
 
-Star the repo and [subscribe](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA??sub_confirmation=1) to the YouTube channel for more dev content!
